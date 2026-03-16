@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.19055647
 # Topological Grand Unification: Confinement and Electroweak Physics from $U(4)$
 **Volume 1 Computational Framework**
 
